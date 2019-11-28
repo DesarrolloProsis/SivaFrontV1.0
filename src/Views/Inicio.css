@@ -1,0 +1,22 @@
+.bg-color{
+    background-color: #dc7633 !important;
+  border-bottom-width: 8px !important;
+  border-bottom-color: #A04000 !important;
+  font-size: 28px !important;
+
+}
+.bg-color-2{
+    background-color: #00a73c !important;
+    border-bottom-width: 10px !important;
+    border-bottom-color: #196F3D !important;
+    font-size: 28px !important;
+   
+}
+.bg{
+    min-height: 100vh;
+    background: url(../bg.jpg) no-repeat center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }

@@ -1,0 +1,43 @@
+.btn-filter {
+    background-color: white !important;
+    border: 1px solid gainsboro !important;
+    color: black !important;
+    text-align: left !important;
+}
+
+.btn-filter:active {
+    background-color: white !important;
+    border: 1px solid gray !important;
+    color: black !important;
+}
+
+.btn-filter:hover {
+    background-color: white !important;
+    border: 1px solid gray !important;
+    color: black !important;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle{
+    background-color: white;
+    border: 1px solid gray;
+    color: black;
+}
+.dp-filter{
+    background-color: white !important;
+    border: 1px solid gainsboro !important;
+    color: black !important;
+    border-radius: 3px !important;
+    padding: 4px !important;
+    font-size: 14px !important;
+    width: 100% !important;
+}
+.filter-text{
+font-size: 12px !important;
+margin-bottom: 0 !important;
+margin-top: 4px !important;
+}
+.button-buscar{
+    width: 100%;
+    margin-top: 20px;
+    background-color: #5DADE2 !important;
+    border-color:#5DADE2 !important ;
+}

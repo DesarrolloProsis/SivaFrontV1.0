@@ -1,0 +1,12 @@
+.table-res {
+    margin-bottom: 0;
+}
+.res-height{
+    height: 400px !important;
+    /* overflow-y: scroll; */
+}
+.table-color{
+    background-color: #DC7633;
+    border-color: #DC7633;
+    color: white;
+}

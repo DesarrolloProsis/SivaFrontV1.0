@@ -1,0 +1,39 @@
+.head-margin-top {
+    margin-top: 3.8em;
+}
+
+.button-register {
+    margin-top: 10px;
+    float: right;
+}
+
+.left-margin {
+    border-left-color: gainsboro !important;
+    border-left-width: 1px;
+    border-left-style: solid;
+}
+
+.left-margin-group {
+    margin-left: 10px;
+}
+
+.sivalogo {
+    width: 190px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+@media (max-width: 600px) {
+    .sivalogo {
+        width: 140px;
+        display: block;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+}
+.valpass{
+    color: red;
+    font-size: 15px;
+}

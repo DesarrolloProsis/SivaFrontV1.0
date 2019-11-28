@@ -1,0 +1,25 @@
+
+  .navstyle {
+    background-color: #00a73c !important;
+    color: white !important;
+}
+
+.logomarhnos {
+    width: 23px;
+   
+}
+
+.texto-blanco {
+    color: white !important;
+    padding: 0 1rem !important;
+}
+
+.user-info{
+font-size: 13px;
+margin: 0;
+padding: 0;
+
+}
+.button-cont{
+margin-left: 10px;
+}
