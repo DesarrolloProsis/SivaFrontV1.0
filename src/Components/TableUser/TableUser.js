@@ -9,7 +9,7 @@ import Loader from 'react-loader-spinner'
 function TableUser(props, props2,props3, props4,props5, props6) {
 
   const pageNumber = [];
-  console.log(props.datos.length)
+  
 
   if (props.datos.length > 0) {
     return (
